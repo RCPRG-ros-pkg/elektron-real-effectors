@@ -1,0 +1,6 @@
+[submodule "nf"]
+	path = src/nf
+	url = https://github.com/mwalecki/nf.git
+[submodule "serialcomm"]
+	path = src/serialcomm
+	url = https://github.com/mwalecki/serialcomm.git
